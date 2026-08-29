@@ -1,0 +1,19 @@
+# Ambiente virtual Python
+.venv/
+
+# MPLAB X
+build/
+debug/
+dist/
+**/nbproject/private/
+.generated_files/
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
